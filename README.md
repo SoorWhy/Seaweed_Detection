@@ -29,6 +29,7 @@ pip install -r requirements.txt
  ┗ predict.py
 ```
 images 폴더에 예측 할 이미지를 넣고, 결과는 results 폴더에 저장됩니다.
+* results 폴더는 최초 실행 시 자동으로 생성됩니다.
 
 ## 예측 수행
 사전 학습 모델(best.pt)을 활용하여 예측을 수행합니다.
