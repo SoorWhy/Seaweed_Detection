@@ -1,0 +1,5 @@
+architecture:"YOLOv8l"
+batch_size:4
+epochs:100
+img_size:1,024
+learning_rate:0.001
