@@ -41,6 +41,6 @@ python predict.py
 ## 결과 예시
 * results/json
 * PredictionString {Label Confidence XMin YMin XMax YMax}  
-![json_](https://github.com/user-attachments/assets/78eda229-b111-4f54-9347-489a6dde8b4d)
+![json_](https://github.com/user-attachments/assets/4ba5bdc3-0d1d-4f5b-83f3-bd37393766be)
 * results/visualization  
 ![visualization_seaweed_01348](https://github.com/user-attachments/assets/fc3dc545-e35c-4cd7-9f8a-e73c258acbdc)
