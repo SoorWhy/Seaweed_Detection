@@ -19,16 +19,17 @@ pip install -r requirements.txt
 
 ## 디렉터리 구성
 ```
- ┣ images
+ ┣ testset
  ┃ ┗ ...(예측 할 이미지)
  ┣ results
- ┃ ┣ json
+ ┃ ┣ predictions.json
  ┃ ┗ visualization
+ ┃   ┗ ...(예측 결과 이미지)
  ┣ best.pt
  ┣ requirements.txt
  ┗ predict.py
 ```
-images 폴더에 예측 할 이미지를 넣고, 결과는 results 폴더에 저장됩니다.
+testset 폴더에 예측 할 이미지를 넣고, 결과는 results 폴더에 저장됩니다.
 * results 폴더는 최초 실행 시 자동으로 생성됩니다.
 
 ## 예측 수행
