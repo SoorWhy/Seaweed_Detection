@@ -75,7 +75,6 @@ def main():
                         'top_y': int(bbox[1]),
                         'bot_x': int(bbox[2]),
                         'bot_y': int(bbox[3]),
-                        'bbox': [int(bbox[0]), int(bbox[1]), int(bbox[2]), int(bbox[3])]
                     })
 
             # 예측된 좌표가 있으면 추가
