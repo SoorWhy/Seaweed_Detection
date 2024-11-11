@@ -51,7 +51,6 @@ python predict.py
 ### 리더 보드를 통한 정량적 평가
 * 총 13위 중 7위
 ![리더보드](https://github.com/user-attachments/assets/3668195f-aa72-43e0-b494-25c9ef2e172d)
-### 발표 평가를 통한 정성적 평가
 
 ## 프로젝트 회고
 ### 어려웠던 점
